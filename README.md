@@ -12,8 +12,8 @@ I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Te
 * Extreme Data Imputation (📈 Statistical Data Analysis).
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosmoluminous&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="cosmoluminous" />
-<p align="center"> <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoluminous&layout=compact)](https://github.com/cosmoluminous/github-readme-stats)" alt="cosmoluminous" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosmoluminous&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoluminous&layout=compact" alt="" />
 
 <!--
 **CosmoLuminous/CosmoLuminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
