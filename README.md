@@ -1,5 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" />
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
 
 I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Technology. 
 🔭 I’m currently working on some interesting research problems: 😎
@@ -8,9 +7,8 @@ I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Te
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
 
-![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
 ![Aman's Github Statistics](https://github-readme-stats.vercel.app/api?username=cosmoluminous&show_icons=true)
-
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 
 
