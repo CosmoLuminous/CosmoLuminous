@@ -1,8 +1,11 @@
-### Hi there 👋 
-![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/aman-bhardwaj-iitd/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
+<br />
+
 I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Technology. 
 🔭 I’m currently working on some interesting research problems: 😎
 * Affordable Healthcare AI Systems for Developing Countries. (:atom: Deep Learning and Computer Vision).
