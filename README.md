@@ -9,7 +9,7 @@
 I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Technology. 
 🔭 I’m currently working on some interesting research problems: 😎
 * Affordable Healthcare AI Systems for Developing Countries. (:atom: Deep Learning and Computer Vision).
-* Extreme Data Imputation (📈 Statistical Data Analysis).
+* Data Imputation (📈 Statistical Data Analysis).
 * Multivariate Factor Modelling.
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
