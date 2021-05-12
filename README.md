@@ -15,7 +15,7 @@ I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Te
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=cosmoluminous&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoluminous&layout=compact" alt="" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoluminous&layout=compact" alt="" />
 </p>
 
 <!--
