@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/aman-bhardwaj-iitd/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -14,10 +14,10 @@ I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Te
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
 
-# GitHub Stats
+### GitHub Stats
 ![Aman's Github Stats](https://github-readme-stats.vercel.app/api?username=CosmoLuminous&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true)
 
-# Top Languages
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmoLuminous&layout=compact&theme=radical)
 
 <!--<p align="center"> 
