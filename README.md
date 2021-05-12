@@ -13,10 +13,17 @@ I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Te
 * Multivariate Factor Modelling.
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
-<p align="center"> 
+
+# GitHub Stats
+![Aman's Github Stats](https://github-readme-stats.vercel.app/api?username=CosmoLuminous&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true)
+
+# Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmoLuminous&layout=compact&theme=radical)
+
+<!--<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=cosmoluminous&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoluminous&layout=compact" alt="" />
-</p>
+</p>-->
 
 <!--
 **CosmoLuminous/CosmoLuminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
