@@ -6,9 +6,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
 <br />
 
-### Research Areas
 I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Technology. 
 🔭 I’m currently working on some interesting research problems: 😎
+
+### Research Areas
 * Affordable Healthcare AI Systems for Developing Countries. (:atom: Deep Learning and Computer Vision).
 * Data Imputation (📈 Statistical Data Analysis).
 * Multivariate Factor Modeling.
