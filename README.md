@@ -6,8 +6,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
 <br />
 
-I am Aman Bhardwaj, MS Research Scholar at IIT-Delhi at School of Information Technology. 
-🔭 I’m currently working on some interesting research problems under the supervision of [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/), Computer Science & Engineering, IIT Delhi.
+I am Aman Bhardwaj, MS Research Scholar at [IIT-Delhi](https://home.iitd.ac.in/) at School of Information Technology. 
+🔭 I’m currently working on some interesting research problems under the supervision of [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/), Computer Science & Engineering Department, [IIT-Delhi](https://home.iitd.ac.in/).
 
 ### Research Areas Include
 * Affordable Healthcare AI Systems for Developing Countries. (:atom: Deep Learning and Computer Vision).
