@@ -7,12 +7,12 @@
 <br />
 
 I am Aman Bhardwaj, MS Research Scholar at [IIT-Delhi](https://home.iitd.ac.in/) at School of Information Technology. 
-🔭 I’m currently working on some interesting research problems under the supervision of [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/), Computer Science & Engineering Department, [IIT-Delhi](https://home.iitd.ac.in/).
+:man_student: I’m currently working on some interesting research problems under the supervision of [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/), Computer Science & Engineering Department, [IIT-Delhi](https://home.iitd.ac.in/).
 
 ### Research Areas Include
 * Affordable Healthcare AI Systems for Developing Countries. (:atom: Deep Learning and Computer Vision).
-* Data Imputation (📈 Statistical Data Analysis).
 * Multivariate Factor Modeling.
+* Data Imputation (📈 Statistical Data Analysis).
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
 
