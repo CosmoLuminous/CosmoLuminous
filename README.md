@@ -1,6 +1,6 @@
 ## Hi there..!!! 
 
-<![Profile Visits:](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)>
+<!-- ![Profile Visits:](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous) -->
 
 I am Aman Bhardwaj, a PhD student :man_student: at [IIT-Delhi](https://home.iitd.ac.in/) focusing on the development of Healthcare AI systems that cater to the unique challenges of resource constrained settings in developing nations. I am currently being advised by  [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/) and [Prof. Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/) (CSE, IIT-Delhi), and [Dr. Vishnu VY](https://www.aiims.edu/index.php?option=com_content&view=article&id=7878&catid=193&lang=en) (Neurology, AIIMS-New Delhi). 
 
