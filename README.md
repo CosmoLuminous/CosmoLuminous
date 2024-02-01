@@ -1,20 +1,17 @@
 ## Hi there..!!! 
-<a href="https://www.linkedin.com/in/aman-bhardwaj-iitd/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
-<br />
+![Profile Visits:](https://visitor-badge.glitch.me/badge?page_id=cosmoluminous)
 
-I am Aman Bhardwaj, a Doctoral Researcher at [IIT-Delhi](https://home.iitd.ac.in/) at School of Information Technology. 
-:man_student: I’m currently working on some interesting research problems in the field of Healthcare AI under the supervision of [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/), Computer Science & Engineering Department, [IIT-Delhi](https://home.iitd.ac.in/).
+I am Aman Bhardwaj, a PhD student :man_student: at [IIT-Delhi](https://home.iitd.ac.in/) focusing on the development of Healthcare AI systems that cater to the unique challenges of resource constrained settings in developing nations. I am currently being advised by  [Prof. Dr. Rahul Garg](https://www.cse.iitd.ac.in/~rahulgarg/) and [Prof. Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/) (CSE, IIT-Delhi), and [Dr. Vishnu VY](https://www.aiims.edu/index.php?option=com_content&view=article&id=7878&catid=193&lang=en) (Neurology, AIIMS-New Delhi). 
 
-My MS (Research) thesis at SIT, IIT-Delhi is based on early identification of Brain Stroke and classification of its types in resource limited environment of developing nations. Additionally, I've worked on developing a generic sparse factor model via an unsupervised approach to understand the behaviour of observed variables of the data in terms of a fewer numbers of latent factors.
+Recently, I successfully completed my MS (Research) from SIT, [IIT-Delhi](https://home.iitd.ac.in/), where I worked closely with Prof. Rahul Garg on early identification of Brain Strokes and classification of its types in resource limited environments. Additionally, I have made significant contributions by developing a generic sparse factor model using an unsupervised approach, enabling a deeper understanding of observed variables of the data in terms of a fewer number of latent factors.
+
+My educational background includes a B.Tech. degree in Electronics and Communications Engineering from the National Institute of Technology, Hamirpur (H.P).
 
 ### Research Areas Include
-* Affordable Healthcare AI Systems for Developing Countries. (:atom: Machine Learning, Deep Learning and Computer Vision).
+* AI for Healthcare / Digital Health. (Machine Learning, Deep Learning, and Computer Vision).
 * Multivariate Sparse Factor Modeling.
-* Human Pose Estimation.
+* Time Series Modeling and Representation Learning.
 
 Feel free to mail me if you wish to collaborate with me on project. I am open to all sorts of opportunities. 😀
 
